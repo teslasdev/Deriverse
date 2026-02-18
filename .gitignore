@@ -26,7 +26,6 @@ yarn-error.log*
 
 # local env files
 .env*.local
-.env
 
 # vercel
 .vercel
@@ -36,7 +35,6 @@ yarn-error.log*
 next-env.d.ts
 
 # IDE
-.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -49,3 +47,4 @@ next-env.d.ts
 # OS
 .DS_Store
 Thumbs.db
+config.bat
